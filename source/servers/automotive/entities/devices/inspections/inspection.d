@@ -1,4 +1,4 @@
-module models.automotive.entities.devices.inspections.inspection;
+module servers.automotive.entities.devices.inspections.inspection;
 
 @safe:
 import models.automotive;

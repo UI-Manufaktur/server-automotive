@@ -1,4 +1,4 @@
-module models.automotive.entities.dealers.plates.device_assignment;
+module servers.automotive.entities.dealers.plates.device_assignment;
 
 @safe:
 import models.automotive;

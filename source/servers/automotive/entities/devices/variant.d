@@ -1,4 +1,4 @@
-module models.automotive.entities.devices.variant;
+module servers.automotive.entities.devices.variant;
 
 @safe:
 import models.automotive;

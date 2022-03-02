@@ -1,4 +1,4 @@
-module models.automotive.entities.devices.warranties.limit;
+module servers.automotive.entities.devices.warranties.limit;
 
 @safe:
 import models.automotive;

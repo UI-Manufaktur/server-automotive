@@ -1,4 +1,4 @@
-module models.automotive.entities.devices.inspections.checklist;
+module servers.automotive.entities.devices.inspections.checklist;
 
 @safe:
 import models.automotive;

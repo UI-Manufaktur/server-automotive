@@ -1,4 +1,4 @@
-module models.automotive.entities.devices.license_plate;
+module servers.automotive.entities.devices.license_plate;
 
 @safe:
 import models.automotive;

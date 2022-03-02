@@ -1,4 +1,4 @@
-module models.automotive.entities.devices.warranties;
+module servers.automotive.entities.devices.warranties;
 @safe:
 import models.automotive;
 

@@ -1,4 +1,4 @@
-module models.automotive.entities.devices.measures;
+module servers.automotive.entities.devices.measures;
 
 @safe:
 import models.automotive;

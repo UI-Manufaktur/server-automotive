@@ -26,6 +26,14 @@ router // Pages
 	mixin(AddRoutes!("router", "/automotive/dealers/plates", "uimDealerPlates"));
 	mixin(AddRoutes!("router", "/automotive/deals/customers", "uimDealCustomers"));
 	mixin(AddRoutes!("router", "/automotive/deals", "uimDeals"));
+	mixin(AddRoutes!("router", "/automotive/deals/files", "uimDealFile"));
+	mixin(AddRoutes!("router", "/automotive/deals/terms", "uimDealTerm"));
+	mixin(AddRoutes!("router", "/automotive/deals/types", "uimDealType"));
+	mixin(AddRoutes!("router", "/automotive/deals/devices/addons", "uimDealDeviceAddOn"));
+	mixin(AddRoutes!("router", "/automotive/deals/devices", "uimDealDevice"));
+	mixin(AddRoutes!("router", "/automotive/devices/brands", "uimDeviceBrand"));
+	mixin(AddRoutes!("router", "/automotive/deals/devices", "uimDealDevice"));
+	mixin(AddRoutes!("router", "/automotive/deals/devices", "uimDealDevice"));
 
 	router
 		.get("/", &uimIndex)

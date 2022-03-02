@@ -1,4 +1,4 @@
-module models.automotive.entities.deals.device_addon;
+module servers.automotive.entities.deals.devices.addon;
 
 @safe:
 import models.automotive;
